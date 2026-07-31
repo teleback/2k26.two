@@ -8,9 +8,9 @@ Em uma metrópole futurista dominada por grandes corporações, tecnologia de po
 
 ## Referências
 O jogo é inspirado em clássicos de corrida arcade, como:
-- Top Gear
-- OutRun
-- Super Mario kart
+- Top Gear![alt text](image.png)
+- OutRun![alt text](image-1.png)
+- Super Mario kart ![alt text](image-2.png)
 
 Trazendo uma jogabilidade simples e divertida. A estética é baseada no gênero Cyberpunk, com cidades iluminadas por neon, carros futuristas e atmosfera noturna, além de gráficos em pixel art.
 
